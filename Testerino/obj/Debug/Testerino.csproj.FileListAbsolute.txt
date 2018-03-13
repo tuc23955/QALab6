@@ -1,0 +1,9 @@
+c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\bin\Debug\Testerino.dll
+c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\bin\Debug\Testerino.pdb
+c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\bin\Debug\TicTacToe.exe
+c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\bin\Debug\TicTacToe.pdb
+c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\obj\Debug\Testerino.csprojResolveAssemblyReference.cache
+c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\obj\Debug\Testerino.dll
+c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\obj\Debug\Testerino.pdb

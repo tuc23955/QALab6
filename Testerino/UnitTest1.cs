@@ -10,8 +10,9 @@ namespace Testerino
         [TestMethod]
         public void ActiveFieldTest()
         {
-            
 
+            Game g = new Game();
+            Assert.AreEqual(9, g.board.Length) ;
 
         }
 

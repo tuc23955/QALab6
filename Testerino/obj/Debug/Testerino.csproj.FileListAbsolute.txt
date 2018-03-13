@@ -7,3 +7,12 @@ c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\bin\
 c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\obj\Debug\Testerino.csprojResolveAssemblyReference.cache
 c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\obj\Debug\Testerino.dll
 c:\users\tuc23955\documents\visual studio 2015\Projects\TicTacToe\Testerino\obj\Debug\Testerino.pdb
+G:\QA\TicTacToe\Testerino\bin\Debug\Testerino.dll
+G:\QA\TicTacToe\Testerino\bin\Debug\Testerino.pdb
+G:\QA\TicTacToe\Testerino\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\QA\TicTacToe\Testerino\bin\Debug\TicTacToe.exe
+G:\QA\TicTacToe\Testerino\bin\Debug\TicTacToe.pdb
+G:\QA\TicTacToe\Testerino\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\QA\TicTacToe\Testerino\obj\Debug\Testerino.csprojResolveAssemblyReference.cache
+G:\QA\TicTacToe\Testerino\obj\Debug\Testerino.dll
+G:\QA\TicTacToe\Testerino\obj\Debug\Testerino.pdb

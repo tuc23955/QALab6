@@ -8,7 +8,7 @@ namespace TicTacToe
 {
     public class Game
     {
-        public int[] board = new int[9]; //0 used to denote open space, 1 is squared marked X, 2 is square marked O
+        public int[] board = new int[9]; //-1 used to denote open space, 0 is squared marked O, 1 is square marked X
        public int turncount = 1;
 
 
